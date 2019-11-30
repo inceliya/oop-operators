@@ -1,0 +1,9 @@
+D:\Users10\Александр\Desktop\ISM\oop\oop\bin\Debug\oop.exe.config
+D:\Users10\Александр\Desktop\ISM\oop\oop\bin\Debug\oop.exe
+D:\Users10\Александр\Desktop\ISM\oop\oop\bin\Debug\oop.pdb
+D:\Users10\Александр\Desktop\ISM\oop\oop\bin\Debug\Fraction.dll
+D:\Users10\Александр\Desktop\ISM\oop\oop\bin\Debug\Fraction.pdb
+D:\Users10\Александр\Desktop\ISM\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+D:\Users10\Александр\Desktop\ISM\oop\oop\obj\Debug\oop.csproj.CopyComplete
+D:\Users10\Александр\Desktop\ISM\oop\oop\obj\Debug\oop.exe
+D:\Users10\Александр\Desktop\ISM\oop\oop\obj\Debug\oop.pdb

@@ -1,0 +1,5 @@
+D:\Users10\Александр\Desktop\ISM\oop\Fraction\bin\Debug\Fraction.dll
+D:\Users10\Александр\Desktop\ISM\oop\Fraction\bin\Debug\Fraction.pdb
+D:\Users10\Александр\Desktop\ISM\oop\Fraction\obj\Debug\Class.csprojAssemblyReference.cache
+D:\Users10\Александр\Desktop\ISM\oop\Fraction\obj\Debug\Fraction.dll
+D:\Users10\Александр\Desktop\ISM\oop\Fraction\obj\Debug\Fraction.pdb
